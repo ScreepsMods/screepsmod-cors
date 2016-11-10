@@ -4,7 +4,11 @@
   "description": "CORs for Screeps Private Server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "2npm":"publish"
+  },
+  "devDependencies": {
+    "publish": "^0.6.0"
   },
   "author": "Adam Shumann",
   "license": "MIT",

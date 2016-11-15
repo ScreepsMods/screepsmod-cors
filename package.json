@@ -1,6 +1,6 @@
 {
   "name": "screepsmod-cors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CORs for Screeps Private Server",
   "main": "index.js",
   "scripts": {

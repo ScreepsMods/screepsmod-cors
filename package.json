@@ -2,6 +2,9 @@
   "name": "screepsmod-cors",
   "version": "1.0.3",
   "description": "CORs for Screeps Private Server",
+  "repository": {
+    "url": "https://github.com/ScreepsMods/screepsmod-cors"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0",
